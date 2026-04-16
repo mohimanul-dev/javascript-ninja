@@ -3,3 +3,5 @@ profile[3] = "Uttara University"
 console.log(profile)
 profile[0] = "Mohimanul"
 console.log(profile)
+profile[4] = "MSC"
+console.log(profile)
