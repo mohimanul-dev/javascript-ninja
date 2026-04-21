@@ -5,3 +5,5 @@ const obj = {
 }
 obj.name = 'Mohimanul';
 console.log(obj);
+const obj2 = obj
+console.log(obj2);
